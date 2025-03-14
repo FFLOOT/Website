@@ -111,7 +111,7 @@ header .fa-bars{
     display: flex;
     align-items: center;
     min-height: 100vh;
-    background:url(/Users/malika/Downloads/fresh-pink-white-tulips-blue-smooth-background.jpg) no-repeat;
+    background: url(Flower/fl.jpg) no-repeat;
     background-size: cover;
     background-position: center;
 }
